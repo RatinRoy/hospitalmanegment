@@ -1,0 +1,138 @@
+.head{
+  overflow: hidden;
+background-color: lightgray;
+height: 40px;
+width: 959px;
+margin: 0 auto;
+display: block;
+}
+.f1{float: right;
+  padding: 15px 20px;
+}
+.f1 a{
+  color: white;
+  text-decoration: none;
+  padding: 5px 5px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  margin-left: 20px;
+  background-color:gray;
+}
+.back{float: left;
+  padding: 15px 5px;
+}
+.back a{
+  color:white;
+  text-decoration: none;
+  padding: 5px 5px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  margin-left: 0px;
+  background-color:gray;
+}
+.ad{
+  font-size: 10px;
+  color: black;
+  float: left;
+  margin-left:20px;
+}
+.f2{font-size: 10px;
+  text-align: center;
+  margin: 0 auto;
+  background-color: lightgray;
+  width: 959px;
+  height: 40px;
+  overflow: hidden;
+}
+.menu{
+  width: 960px;
+  margin: 0 auto;
+overflow:hidden;
+background: gray;
+}
+.menu  a{
+text-decoration: none;
+font-size: 20px;
+margin-left: 80px;
+padding: 0px 1px;
+color: white;
+border-radius: 5px;
+}
+.menu a:hover{
+  background-color: lightgray;
+  border: 1px solid lightgray;
+  border-top: 10px;
+  color: black;
+}
+.add{
+  width: 960px;
+  margin: 6px auto;
+overflow:hidden;
+}
+.add a{
+  border: 1px solid pink;
+  background-color: pink;
+ width:100%;
+ text-align: center;
+ margin-left: 60px;
+ border-radius: 8px;
+ text-decoration: none;
+ font-size: 30px;
+}
+.add a:hover{
+  background: lightgray;
+  border:1px solid lightgray;
+}
+.list{ overflow: hidden;}
+.nw {
+ width:300px;
+ height: 800px;
+float: right;
+border: 1px solid gray;
+
+}
+.nw p{
+  text-align: center;
+}
+.nw h1{
+  text-align: center;
+  border: 1px solid gray;
+  background: gray;
+}
+.img img{
+  float: left;
+  width: 655px;
+  height: 600px;
+  border: 1px solid gray;
+}
+.img{
+  width: 656px;
+  height:800px;
+  float: left;
+  border: 1px solid gray;
+}
+.foot{
+  width: 960px;
+  height: 850px;
+  margin: 0px auto;}
+  .footer h1{
+    width: 960px;
+    margin:  80px 0px auto;
+  height: 15px;
+  background: gray;
+  text-align: center;
+  font-size: 10px;
+  color: white;
+  }
+.all{
+  border:1px solid gray;
+  width:960px;
+  height: 1000px;
+  margin: 0 auto;
+  display: block;
+  background: lightgray;
+}
+
+/*.visit:visited{
+  background: green;
+}

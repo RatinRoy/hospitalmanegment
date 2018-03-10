@@ -1,0 +1,160 @@
+#tbl{
+  width:960px;
+  margin:8px auto;
+  margin-bottom:px;
+}
+table {
+  font-family: sans-serif;
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 80%;
+  border: 1px solid #ddd;
+  font-size: 16px;
+}
+th, td {
+  text-align: left;
+  padding: 16px;
+  text-align: center;
+}
+tr:nth-child(even) {
+  background-color: #ADD8E6;
+}
+tr:nth-child(odd){
+  background-color: #E9EBEE;
+  color:#000000;
+}
+tr:nth-child(1){
+  background-color: #4267B2;
+  color:#FFFFFF
+}
+table #update{
+  text-decoration: none;
+  background-color: aqua;
+  color: black;
+  font-weight: bold;
+  font-size: 14px;
+  border-radius: 5px;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+table #delete{
+  text-decoration: none;
+  background-color: aqua;
+  color: black;
+  font-weight: bold;
+  font-size: 14px;
+  border-radius: 5px;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+h1{
+  color: #FFFF00;
+  text-align: center;
+}
+#logout_btn a{
+  float: right;
+  text-decoration: none;
+  background-color: tomato;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 5px;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  margin-right: 30px;
+}
+h1{
+  border: 1px solid blue;
+  background-color: lightgray;
+  padding: 5px;
+  font-weight:lighter;
+  color: red;
+  text-align: center;
+  margin: 0 auto;
+  width: 180px;
+}
+.nam{
+  border: 1px solid blue;
+  background-color: white;
+  margin: 0 auto;
+  width: 175px;
+  padding: 1px;
+}
+.email{
+border: 1px solid blue;
+background-color: white;
+margin: 0 auto;
+width: 175px;
+padding: 1px;
+}
+.sub{
+border: 1px solid blue;
+background-color: green;
+margin: 0 auto;
+width: 50px;
+color: white;
+padding: 1px;
+border-radius: 5px;
+}
+.frcm a{
+  border: 1px solid blue;
+  background-color: green;
+  margin: 0 auto;
+  width: 50px;
+  color: white;
+  padding: 1px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.new {
+border: 1px solid blue;
+background-color:green;
+color: white;
+margin: 0 auto;
+width: 50px;
+color: white;
+padding: 1px;
+border-radius: 5px;
+}
+.pws{
+border: 1px solid blue;
+background-color: white;
+margin: 0 auto;
+width: 175px;
+padding: 1px;
+}
+.sub:hover{
+background-color: pink;
+}
+form{
+border: 1px solid blue;
+margin: 0 auto;
+width: 180px;
+padding: 5px;
+background-color: lightgray;
+}
+body{
+display: block;
+}
+.new:hover{
+background-color: red;
+}
+.log {
+border: 1px solid blue;
+background-color:green;
+color: white;
+margin: 0 auto;
+width: 50px;
+color: white;
+padding: 1px;
+border-radius: 5px;
+}
+.log:hover{
+background-color: yellow;
+}

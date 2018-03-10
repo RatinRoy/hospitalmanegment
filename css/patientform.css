@@ -1,0 +1,21 @@
+.fm{
+		border:1px solid lightgray;
+		background: lightgray;
+		margin: 0px auto;
+		width: 35%;
+		text-align: center;
+		border-radius: 5px;}
+.btn input{
+			background: aqua;
+	
+		}
+header{
+	border:1px solid green;
+			background: green;
+			width: 40%;
+			text-align: center;
+			margin:0 auto;
+		}
+		.now{
+			background: green;
+		}
